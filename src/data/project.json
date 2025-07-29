@@ -1,0 +1,35 @@
+[
+    {
+        "key": "2025conference",
+        "title": "Adaptive Learning",
+        "thumbnail": "/images/project/2025conference.png",
+        "period": "Mar. 17, 2025 - May. 19, 2025",
+        "members": [
+            "Seongil Heo$^{1,2}$"
+        ],
+        "institution": "$^1$University of Univ, $^2$School of Computing",
+        "keywords": ["Openness", "AI"],
+        "links": {
+            "Paper": "/docs/p-2025conference.pdf",
+            "Code": "https://github.com/YOURS/2025conference",
+            "Page": "/project/2025conference",
+            "Poster": "/docs/poster-2025conference.pdf"
+        }
+    },
+    {
+        "key": "2025project",
+        "title": "Planning for Robotic",
+        "thumbnail": "/images/project/2025project.png",
+        "period": "Feb. 26, 2025 - Apr. 30, 2025",
+        "members": [
+            "Seongil Heo"
+        ],
+        "institution": "Prof. First Last, CS 6200 University of Univ",
+        "keywords": ["Planning", "Robot"],
+        "links": {
+            "Paper": "/docs/p-2025project.pdf",
+            "Code": "https://github.com/YOURS/2025project",
+            "Page": "/project/2025project"
+        }
+    }
+]

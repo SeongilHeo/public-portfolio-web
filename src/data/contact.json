@@ -1,0 +1,20 @@
+[
+    {
+        "key": "email",
+        "icon": ["fas","envelope"],
+        "title": "your-email@github.com",
+        "to": "mailto:your-email@github.com"
+    },
+    {
+        "key": "linkedin",
+        "icon": ["fab", "linkedin"],
+        "title": "your-name",
+        "to": "https://www.linkedin.com/in/your-name"
+    },
+    {
+        "key": "github",
+        "icon": ["fab", "github"],
+        "title": "your-name",
+        "to": "https://www.github.com/your-name"
+    }
+]

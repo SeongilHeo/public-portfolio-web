@@ -1,0 +1,14 @@
+[
+    {
+        "type": "project",
+        "date": "Jun. 06, 2025",
+        "title": "Portfolio Website Launched",
+        "description": "I’ve launched my personal portfolio website to showcase my research, projects, and academic journey. It includes information about my background, interests, experiences, and recent achievements. I gathered design inspiration from various websites and developed it myself  using React and Tailwind CSS. It will keep getting updates."
+    },
+    {
+        "type": "award",
+        "date": "May. 19, 2025",
+        "title": "Winner of the Track at [Conference 2025](https://github.io)",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the **1960s** with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    }
+]

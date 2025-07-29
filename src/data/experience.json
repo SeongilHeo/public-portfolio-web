@@ -1,0 +1,46 @@
+{
+    "Research": [
+        {
+            "key": "",
+            "title": "Multi Agent System",
+            "role": "Graduate Student",
+            "institution": "University of Univ",
+            "supervisor": "Dr. First Last",
+            "period": "Nov. 2024 – Present",
+            "location": "City, State",
+            "keywords": ["System", "Learning"]
+        }
+    ],
+    "Internship": [
+        {
+            "title": "Intern in AI team",
+            "institution": "COMPANY Co., Ltd.",
+            "description": [
+                "Prediction of time series data",
+                "fieldwork"
+            ],
+            "period": "Jul. 2020 – Aug. 2020",
+            "location": "City, State"
+        }
+    ],
+    "Extra-Courses": [
+        {
+            "title": "Extra Class (Part: --)",
+            "institution": "Academy",
+            "period": "Jan. 2023 – Jun. 2023",
+            "links": {
+                "Certificate": "/docs/c-2023key.pdf"
+            }
+        }
+    ],
+    "Others": [
+        {
+            "title": "Winner, Competition",
+            "institution": "International Conference",
+            "period": "May. 19, 2025",
+            "links": {
+                "Certificate": "/docs/c-2025key.pdf"
+            }
+        }
+    ]
+}

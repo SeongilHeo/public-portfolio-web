@@ -1,0 +1,82 @@
+@import 'tailwindcss';
+
+@layer base {
+    h1 {
+        @apply text-2xl sm:text-4xl font-bold;
+    }
+    
+    h2 {
+        @apply text-xl sm:text-3xl font-semibold;
+    }
+
+    h3 {
+        @apply text-lg sm:text-2xl font-semibold;
+    }
+
+    h4 {
+        @apply text-base sm:text-xl font-semibold;
+    }
+
+    h5 {
+        @apply text-sm sm:text-base font-semibold;
+    }
+    
+    *,
+    ::before,
+    ::after {
+        @apply border-slate-300;
+    }
+    
+    section {
+        @apply border-b border-slate-400 py-4;
+    }
+
+    main {
+        @apply transition-all duration-300 ease-in-out;
+    }
+
+    aside {
+        @apply flex flex-col justify-between transform transition-transform duration-300 ease-in-out fixed h-screen w-80 overflow-y-auto px-6 py-4 bg-stone-100 z-50;
+    }
+}
+
+@layer components {
+    .border-strong {
+        @apply border-b-4 border-slate-600;
+    }
+
+    .pages {
+        @apply flex-1 mt-10 pb-10 flex flex-col gap-4 md:gap-10;
+    }
+}
+
+@layer utilities {
+    .sidebar-open {
+        @apply translate-x-0 shadow-2xl;
+    }
+
+    .sidebar-closed {
+        @apply -translate-x-full;
+    }
+    
+    .aspect-a4 {
+        @apply aspect-[1/1.414];
+    }
+}
+
+/* Chrome, Safari, Opera */
+*::-webkit-scrollbar {
+    display: none;
+}
+
+/* IE, Edge */
+* {
+    -ms-overflow-style: none;
+    /* IE and Edge */
+    scrollbar-width: none;
+    /* Firefox */ 
+}
+
+html {
+    scroll-behavior: smooth; 
+}

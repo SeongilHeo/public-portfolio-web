@@ -1,0 +1,19 @@
+services:
+  vite:
+    build:
+      context: ./
+    ports:
+      - "5173:5173"
+    networks:
+      - webnet
+    volumes:
+      - ./public:/app/public
+      - ./src:/app/src
+      - ./index.css:/app/index.css
+      - ./index.html:/app/index.html
+      - ./package.json:/app/package.json
+      - ./vite.config.js:/app/vite.config.js
+    env_file:
+      - ./.env
+networks:
+  webnet:

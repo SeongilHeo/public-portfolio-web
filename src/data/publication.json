@@ -1,0 +1,19 @@
+{
+    "2022": [
+        {
+            "key": "IC2022",
+            "title": "Mobile-Robot",
+            "thumbnail": "/images/publication/IC2022.png",
+            "date": "Dec. 2022",
+            "authors": [
+                "Seongil Heo"
+            ],
+            "venue": "IEEE International Conference, 2022",
+            "links": {
+                "Paper": "https://ieeexplore.ieee.org/abstract/document/123456789",
+                "Code": "https://github.com/YOURS"
+            },
+            "etc": ""
+        }
+    ]
+}

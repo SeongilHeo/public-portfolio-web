@@ -1,0 +1,24 @@
+[
+    {
+        "key": "univ",
+        "degree": "M.S",
+        "icon": "/images/univ.png",
+        "school": "University of Univ",
+        "period": "2024 - Present",
+        "major": "Computer Science",
+        "supervisor": "Dr. First Last",
+        "lab": "YOUR LAB lab",
+        "labLink": "https://your-lab.edu/",
+        "transcript": "/docs/transcript-250606.pdf"
+    },
+    {
+        "key": "univ",
+        "degree": "B.S",
+        "icon": "/images/univ.png",
+        "school": "University of Univ",
+        "period": "2016 - 2023",
+        "major": "Computer Science",
+        "supervisor": "Dr. First Last",
+        "transcript": "/docs/transcript-univ.pdf"
+    }
+]
